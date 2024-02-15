@@ -1,0 +1,6 @@
+{
+  "token": "BOT TOKEN HERE",
+  "spotify_client_id": "ID HERE",
+  "spotify_client_secret": "SECRET HERE",
+  "youtube_api_key": "API KEY HERE"
+}
